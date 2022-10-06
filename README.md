@@ -8,6 +8,7 @@ DAY 1
 3.	Implement Vernam Cipher technique
 4.	Use network reconnaissance tools like WHOIS, dig, traceroute, nslookup to gather information about networks and domain registrars.
 5.	Write a C program that contains a string (char pointer) with a value \Hello World’. The program should XOR each character in this string with 0 and display the result.
+
 DAY 2
 
 6.	Implement DES Algorithm 
